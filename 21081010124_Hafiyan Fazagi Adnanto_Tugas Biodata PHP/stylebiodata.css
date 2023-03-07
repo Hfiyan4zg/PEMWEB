@@ -1,0 +1,243 @@
+.flex-container{
+    display : flex;
+}
+
+.kotakbesar1 {
+    display: flex;
+    flex-direction: column;
+    background-color: #2E81A4;
+    padding: 50px;
+    height: 1080px;
+    width: 465px;
+    left: 0px;
+    top: 0px
+}
+
+.kotakbesar2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.kotak1{
+    display: flex;
+    flex-direction: column;
+    background-color: #36B5AD;
+    padding: 50px;
+    height: 50px;
+    
+}
+
+.kotak2{
+    display: flex;
+    flex-direction: column;
+    background-color: #D9D9D9;
+    padding: 50px;
+    height : 930px;
+}
+
+img{
+    width: 261px;
+    height: 362px;
+    left: 102px;
+    top: 40px;
+    border-radius: 150px;
+}
+
+.nama{
+    width: 409px;
+    height: 49px;
+    left: 28px ;
+    right: 28px ;
+    top: 441px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+h3.ttl{
+    width: 385px;
+    height: 44px;
+    left: 40px;
+    top: 610px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 150px;
+    text-align: left;
+
+    color: #FFFFFF;
+}
+
+h1.ttl{
+    width: 385px;
+    height: 44px;
+    left: 40px;
+    top: 610px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: left;
+
+    color: #FFFFFF;
+
+}
+
+h3.age{
+    width: 385px;
+    height: 27px;
+    left: 40px;
+    top: 693px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 15px;
+    text-align: left;
+
+    color: #FFFFFF;
+}
+
+h1.age{
+    width: 385px;
+    height: 82px;
+    left: 40px;
+    top: 630px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 0px;
+    text-align: left;
+
+    color: #FFFFFF;
+
+}
+
+h3.alamat{
+    width: 385px;
+    height: 27px;
+    left: 40px;
+    top: 693px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 110px;
+    text-align: left;
+
+    color: #FFFFFF;
+}
+
+h1.alamat{
+    width: 385px;
+    height: 82px;
+    left: 40px;
+    top: 630px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: left;
+
+    color: #FFFFFF;
+
+}
+
+h3.no{
+    width: 385px;
+    height: 27px;
+    left: 40px;
+    top: 693px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 110px;
+    text-align: left;
+
+    color: #FFFFFF;
+}
+
+h1.no{
+    width: 385px;
+    height: 82px;
+    left: 40px;
+    top: 630px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: left;
+
+    color: #FFFFFF;
+}
+
+h1.profile{
+    width: 900px;
+    height: 142px;
+    left: 836px;
+    top: 22px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 0px;
+
+    color: #FFFFFF;
+}
+
+h3.tentang{
+    width: 250px;
+    height: 36px;
+    left: 700px;
+    top: 221px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 36px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.kotak2 p{
+    width: 1600px;
+    height: 616px;
+    left: 529px;
+    top: 293px;
+
+    font-family: 'Crimson Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+
+    color: #000000;
+}
