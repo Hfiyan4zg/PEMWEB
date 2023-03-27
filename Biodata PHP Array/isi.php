@@ -1,0 +1,14 @@
+$nama = "Hafiyan Fazagi Adnanto";
+    $umur_judul = "Umur";
+    $tgl_lahir = '29-06-2003';
+    $ttl_judul = "Tempat tanggal lahir";
+    $ttl_isi = "Mojokerto, 29 Juni 2003";
+    $alamat_judul = "Alamat";
+    $alamat_isi = "Griya Permata Meri blok G1-21 Mojokerto";
+    $no_judul = "No. Telp";
+    $no_isi = "08979384304";
+    $profile = "My Profile";
+    $tentang = "Tentang Saya";
+    $p1 = "Saya Hafiyan Fazagi Adnanto, pemuda yang lahir di Mojokerto, kota kecil nan indah. Saat ini saya menempuh pendidikan di salah satu Universitas Negeri yaitu UPN “Veteran” Jawa Timur. Mengambil program studi Informatika besar harapan saya agar nantinya ilmu yang saya dapatkan selama kuliah dapat berguna untuk masa depan saya dan bangsa ini.";
+    $p2 = "Saya memiliki ketertarikan dalam bidang musik. Saat ini saya mencoba terjun di dunia tarik suara dengan mengikuti UKM Paduan Suara di kampus dengan tujuan untuk mengembangkan minat saya. Selain itu saya juga suka memainkan gitar dan tengah mencoba untuk belajar bermain keyboard. Impian kecil saya adalah dapat bernyanyi di depan banyak orang entah itu di cafe atau di undang di suatu acara.";
+    $p3 = "Saya memiliki cita-cita kelak ingin menjadi PNS dan bekerja di salah satu kementrian dengan memanfaatkan keilmuan yang saya tempuh.";
