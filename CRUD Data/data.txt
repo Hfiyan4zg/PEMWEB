@@ -1,0 +1,5 @@
+B001--Sherlock Holmes : The Hound of Baskerville--Sir Arthur Conan Doyle--Airlangga--2019--assets/cover-buku/B001_Cover_(Hound_of_Baskervilles,_1902).jpg
+B002--Bumi--Tere Liye--Penerbit Gajahmada--2014--assets/cover-buku/B002_95219_f.jpg
+B003--Bicara itu Ada Seninya--Oh Su Hyang--Sinar Media--2012--assets/cover-buku/B003_109861_f.jpg
+B004--Bulan--Tere Liye--Penerbit Gajahmada--2015--assets/cover-buku/B004_9786020332949_Bulan-New-Cover.jpg
+B005--Steelheart : The Reckoners Trilogy--Brandon Sanderson--Alfa Publisher--2013--assets/cover-buku/B005_steelheart.jpg
